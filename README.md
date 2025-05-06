@@ -22,9 +22,5 @@ Install via:
 ```bash
 sudo apt install flex bison build-essential
 
-Build & Run :
 
-```bash
-make
-./cparser < test.c
 
